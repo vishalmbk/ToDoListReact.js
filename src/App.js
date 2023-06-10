@@ -13,6 +13,7 @@ function App() {
       <Timer /> */}
       {/* <ToDoList /> */}
       <DailyTask />
+      this is ToDoList
     </div>
   );
 }
